@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 A simple one page QR code component
 
 - Solution URL:(https://github.com/BarryIse/A-QR-code-page.git)
-- Live Site URL:()
+- Live Site URL:(https://barryise.github.io/Simple-QR-code-page/)
 
 Built with
 - Semantic HTML5 markup
@@ -16,5 +16,5 @@ I'll like to focus more and develop my designs with scss, especially on flexbox,
 
 (https://fonts.google.com) - This helped me for my fonts. I imported my font-family Outfit directly from here, and it was stress free.
 
-Website -()
+Website -(https://barryise.github.io/Simple-QR-code-page/)
 Twitter - [@BarryIshe](https://www.twitter.com/BarryIshe)
